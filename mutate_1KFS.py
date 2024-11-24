@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from pymol import cmd
 
 # load the raw PDB
